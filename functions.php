@@ -1,6 +1,6 @@
 <?php
 //header function to set up at the beginning of the webpage
-//call this function by declaring
+//call this function by declaring bababsbasjajshlas
 //makeHeader(string: "tabbar title here",string: "page title here", Int: style#);             <--- needs updated
 //style can be either 0,1,2, or 3 where 0 is default and the other three are more detailed premade styles
 function makeHeader($tbtitle,$ptitle,$pstyle,$fileName, $hhtml=""){
