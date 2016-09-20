@@ -2,7 +2,7 @@
 	require_once "config.php";
 	require_once "functions.php";
 	promptLogin();
-//editing from github.com Blah blah blah
+//editing from github.com    <3
 
 		makeHeader("STT HOME","Student Technology Team Home",2,"index.php",'<link href="/css_files/homePage.css" rel="stylesheet">');
 	?>
