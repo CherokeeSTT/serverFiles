@@ -4,7 +4,7 @@
 promptLogin(1);
 
 	makeHeader("Create Jobs","Create a job",2,"create_jobs.php",'<link href="/css_files/create_jobs.css" rel="stylesheet">');
-
+//hello friends
 ?>
 
 <center>
